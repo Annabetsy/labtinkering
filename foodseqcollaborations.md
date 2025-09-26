@@ -1,4 +1,5 @@
 ```mermaid
+
 flowchart TD
   %% ==============================
   %% FoodSeq: Collaboration → Paper
@@ -154,4 +155,3 @@ flowchart TD
   E9:::handoff --> F0
   F10:::handoff --> G1
   G5:::handoff --> H1
-```
