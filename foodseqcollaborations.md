@@ -1,6 +1,7 @@
 ```mermaid
+%%{init: {"theme": "default"}}%%
+flowchart LR
 
-flowchart TD
   %% ==============================
   %% FoodSeq: Collaboration → Paper
   %% ==============================
